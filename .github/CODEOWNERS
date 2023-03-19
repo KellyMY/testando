@@ -2,4 +2,7 @@
 * @nancyuzawa
 
 #Approver to .github files
-/.github/ @nancyuzawa
+#/.github/ @KellyMY
+
+/.github/* @nancyuzawa
+
